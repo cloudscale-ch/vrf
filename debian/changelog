@@ -1,3 +1,9 @@
+vrf (1.2~git20171016~cloudscale1) xenial-cloudscale; urgency=medium
+
+  * Git Snapshot build for xenial-cloudscale
+
+ -- Gaudenz Steinlin <gaudenz@debian.org>  Mon, 16 Oct 2017 19:55:32 +0200
+
 vrf (1.1) RELEASED; urgency=medium
 
   * Updates for upstream
